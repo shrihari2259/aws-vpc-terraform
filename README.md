@@ -95,3 +95,8 @@ terraform destroy
 - Terraform >= 1.5
 - AWS: VPC, EC2, S3, IAM, DynamoDB, NAT Gateway
 - Region: ap-south-1 (Mumbai)
+
+
+<img width="1645" height="1011" alt="image" src="https://github.com/user-attachments/assets/3479735c-e1f1-4f3a-9364-ea4296bf7b67" />
+
+<img width="1919" height="981" alt="Screenshot 2026-06-28 190922" src="https://github.com/user-attachments/assets/7e2ec69c-7699-45a6-99c8-a87a794ed012" />
