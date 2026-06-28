@@ -89,9 +89,6 @@ terraform destroy
 | `key_pair_name` | `my-key-pair` | EC2 key pair name |
 | `s3_bucket_name` | `my-static-site-hari-2026` | S3 bucket name (must be globally unique) |
 
-## Resume Line
-
-> Provisioned AWS 3-tier VPC infrastructure (VPC, public/private subnets across 2 AZs, IGW, NAT Gateway, EC2, S3 static hosting) using Terraform with remote state management via S3 + DynamoDB locking.
 
 ## Tech Stack
 
